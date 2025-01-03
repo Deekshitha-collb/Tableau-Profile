@@ -63,3 +63,16 @@ You can view my Tableau profile and dashboards at: [Tableau Public Profile](http
   4. Geographic distribution of house sales across King County.
 - **Link**: [[Link to Tableau dashboard](https://public.tableau.com/app/profile/deekshitha.chikkala/viz/KingCountyHouseSales_17033855903210/KingCountyWashingtonHouseSales)]
 
+
+### Project 6: IBM Telco Customer Analytics
+- **Description**:
+  1. This dashboard provides a comprehensive analysis of customer behavior and churn trends for the IBM Telco dataset.
+  2. It explores key customer demographics, service usage patterns, payment methods, and factors contributing to churn, offering actionable insights for improving customer retention.
+- **Key Features**:
+  1. Interactive Filters and Drilldowns: Analyze customer metrics by demographics such as gender, age, and marital status.
+  2. Churn Analysis: Visualizations of churn rates, top churn reasons, and trends over time.
+  3. Revenue Insights: Breakdown of total revenue, refunds, and monthly charges with KPIs and trend lines.
+  4. Service Usage Patterns: Heatmaps showcasing correlations between service types and customer satisfaction.
+  5. Geographic Analysis: Interactive maps displaying customer distribution across states and cities.
+- **Link**: [Link to Tableau dashboard]()
+
