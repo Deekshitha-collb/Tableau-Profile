@@ -74,5 +74,5 @@ You can view my Tableau profile and dashboards at: [Tableau Public Profile](http
   3. Revenue Insights: Breakdown of total revenue, refunds, and monthly charges with KPIs and trend lines.
   4. Service Usage Patterns: Heatmaps showcasing correlations between service types and customer satisfaction.
   5. Geographic Analysis: Interactive maps displaying customer distribution across states and cities.
-- **Link**: [Link to Tableau dashboard]()
+- **Link**: [Link to Tableau dashboard](https://public.tableau.com/app/profile/deekshitha.chikkala/viz/IBMTelcoCustomerChurnAnalysis/Dashboard1)
 
